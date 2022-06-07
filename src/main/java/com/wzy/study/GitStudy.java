@@ -9,5 +9,6 @@ public class GitStudy {
         System.out.println("dd");
         System.out.println("dd");
         System.out.println("dd2");
+        System.out.println("dd");
     }
 }
