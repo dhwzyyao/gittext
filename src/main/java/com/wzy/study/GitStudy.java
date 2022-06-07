@@ -11,5 +11,6 @@ public class GitStudy {
         System.out.println("dd2");
         System.out.println("dd");
         System.out.println("push text");
+        System.out.println("pull text");
     }
 }
